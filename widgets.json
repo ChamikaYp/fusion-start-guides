@@ -739,6 +739,31 @@
         "payload": {
           "items": [
             {
+              "id": "768d51b2-613d-47dd-b796-d47c38f67f07",
+              "title": "Horror",
+              "hideTitle": false,
+              "imageAspect": "poster",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.elfhosted.com/stremio/df0ec77a-de37-4352-978e-cd92929926e9/manifest.json",
+                    "catalogId": "movie::mdblist.158812",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.elfhosted.com/stremio/df0ec77a-de37-4352-978e-cd92929926e9/manifest.json",
+                    "catalogId": "series::mdblist.158835",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/htyJ8Gtm/Horror.png"
+            },
+            {
               "id": "9be533cf-0dfa-4adf-a140-9d53df508114",
               "title": "Action",
               "hideTitle": false,
@@ -1029,31 +1054,6 @@
                 }
               ],
               "imageURL": "https://i.postimg.cc/fR237bRP/Reality-TV.png"
-            },
-            {
-              "id": "768d51b2-613d-47dd-b796-d47c38f67f07",
-              "title": "Horror",
-              "hideTitle": false,
-              "imageAspect": "poster",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadata.elfhosted.com/stremio/df0ec77a-de37-4352-978e-cd92929926e9/manifest.json",
-                    "catalogId": "movie::mdblist.158812",
-                    "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadata.elfhosted.com/stremio/df0ec77a-de37-4352-978e-cd92929926e9/manifest.json",
-                    "catalogId": "series::mdblist.158835",
-                    "type": "series"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/htyJ8Gtm/Horror.png"
             },
             {
               "id": "2790cf11-1d25-4481-a035-714c45b720a9",
